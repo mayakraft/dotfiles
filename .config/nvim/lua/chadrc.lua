@@ -19,6 +19,7 @@ M.base46 = {
       "eslint-lsp",
       "prettierd",
       "eslint_d",
+      "clangd",
     },
   },
 }
